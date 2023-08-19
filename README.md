@@ -7,9 +7,9 @@
  ```javascript
 const thai = {
   pronouns: "he" | "him",
-  code: [Javascript, Node, Html, Css, Java, python],
+  code: [Javascript, Node, Html, Css, Java, Python],
   frameworks: [React, Tailwind, Express],
-  tools: [Visual Studio Code, NetBeans, git]
+  tools: [Visual Studio Code, NetBeans, Git]
 }
 ```
 <!---
