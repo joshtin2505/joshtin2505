@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on all
 - 📫 How to reach me to my email justincastro2505@gmail.com
 
-- ```javascript
+ ```javascript
 const thai = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
