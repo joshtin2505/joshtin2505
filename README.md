@@ -9,7 +9,8 @@
 const thai = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, Java],
-  tools: [React, Node, Tailwind, Express]
+  frameworks: [React, Node, Tailwind, Express],
+  tools: [Visual Studio Code, NetBeans, git]
 }
 ```
 <!---
