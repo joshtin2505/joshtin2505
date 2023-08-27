@@ -5,7 +5,7 @@
 - 📫 How to reach me to my email justincastro2505@gmail.com
 
  ```javascript
-const thai = {
+const jostin = {
   pronouns: "he" | "him",
   code: [Javascript, Node, Html, Css, Java, Python],
   frameworks: [React, Tailwind, Express],
