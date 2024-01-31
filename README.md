@@ -11,7 +11,7 @@ const jostin = {
   frameworks: [Next, Astro, Tailwind, Express],
   tools: ["Visual Studio Code", Git, GitHub, Notion, Figma],
   passions: ["Web development", "Make music"]
-  "work in": ["La casita de papel ecommerce"]
+  "work in": ['La casita de papel ecommerce']
 }
 ```
 <!---
