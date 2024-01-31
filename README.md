@@ -10,7 +10,7 @@ const jostin = {
   code: [Javascript, Html, Css, React],
   frameworks: [Next, Astro, Tailwind, Express],
   tools: ["Visual Studio Code", Git, GitHub, Notion, Figma],
-  passions: ["Web development", "Make music"]
+  passions: ["Web development", "Make music"],
   workIn: ["La casita de papel ecommerce"]
 }
 ```
