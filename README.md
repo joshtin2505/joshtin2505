@@ -15,7 +15,7 @@ const jostin = {
 }
 ```
 <img src="https://myreadme.vercel.app/api/embed/joshtin2505?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-<img src="[https://myreadme.vercel.app/api/embed/joshtin2505?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme](https://github-readme-stats.vercel.app/api/top-langs/?username=joshtin2505&layout=compact)" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshtin2505&layout=compact" />
 <!---
 joshtin2505/joshtin2505 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
