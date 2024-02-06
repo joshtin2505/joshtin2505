@@ -19,7 +19,8 @@ const jostin = {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshtin2505&layout=compact" />
 </figure>
   <img src="https://github.com/madushadhanushka/differ" />
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=differ)](https://github.com/madushadhanushka/differ)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=joshtin2505&repo=lccp-ecommerce)](https://github.com/joshtin2505/lccp-ecommerce)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=simple-sqlite)](https://github.com/madushadhanushka/simple-sqlite)
 <!---
 joshtin2505/joshtin2505 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
