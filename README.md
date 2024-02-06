@@ -17,7 +17,9 @@ const jostin = {
   <img src="https://myreadme.vercel.app/api/embed/joshtin2505?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshtin2505&layout=compact" />
 </figure>
+
 ![](https://github-readme-stats.vercel.app/api?username=joshtin2505&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true)
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=joshtin2505&repo=lccp-ecommerce)](https://github.com/joshtin2505/lccp-ecommerce)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=joshtin2505&repo=optigestion)](https://github.com/joshtin2505/optigestion)
 <!---
