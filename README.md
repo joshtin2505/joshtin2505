@@ -18,6 +18,7 @@ const jostin = {
   <img src="https://myreadme.vercel.app/api/embed/joshtin2505?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshtin2505&layout=compact" />
 </figure>
+  <img src="https://github.com/madushadhanushka/differ" />
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=differ)](https://github.com/madushadhanushka/differ)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=simple-sqlite)](https://github.com/madushadhanushka/simple-sqlite)
 <!---
