@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @joshtin2505   
 - 👀 I’m interested in music, AI & Web Development.
 - 💞️ I’m looking to collaborate in web app development or web sites on React, Next, etc :)
-- 📫 How to reach me to my email justincastro2505@gmail.com or my IG justincastro2550
+- 📫 How to reach me to my email justincastro2505@gmail.com or my IG justincastro2505
 <!---
 
  ```javascript
