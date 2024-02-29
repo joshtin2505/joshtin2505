@@ -15,7 +15,7 @@ const jostin = {
 }
 ```
 --->
-## My tech stack 👍 
+# My tech stack 👍 
 <!--
 ![FeelMeThinkAboutItGIF](https://github.com/joshtin2505/joshtin2505/assets/91860458/3f63a7c7-548e-42e4-8bce-313c9857aece)
 -->
@@ -32,12 +32,10 @@ const jostin = {
 ![github](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-FF7800?style=flat-square&logo=java&logoColor=white)
 
-## GitHun Info  📕
-<figure>
-  <img src="https://myreadme.vercel.app/api/embed/joshtin2505?panels=userstatistics,toprepositories,commitgraph" alt="reimaginedreadme" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshtin2505&layout=compact" />
-</figure>
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=joshtin2505&theme=default&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=joshtin2505&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=joshtin2505&theme=default&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 ## Current Projects 🧑🏾‍💻
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=joshtin2505&repo=lccp-ecommerce)](https://github.com/joshtin2505/lccp-ecommerce)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=joshtin2505&repo=optigestion)](https://github.com/joshtin2505/optigestion)
