@@ -62,3 +62,49 @@ I always know 😉
 joshtin2505/joshtin2505 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<!---
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>1</title>
+  </head>
+  <body>
+    <table border="">
+      <tr>
+        <th colspan="6">Los Alimentos</th>
+      </tr>
+      <tr>
+        <td colspan="1">Energéticos</td>
+        <td colspan="2">Plasticos</td>
+        <td colspan="2">Reguladores</td>
+        <td colspan="1"></td>
+      </tr>
+      <tr>
+        <td colspan="1">Azucares</td>
+        <td colspan="1">Grasas</td>
+        <td colspan="2">Proteinas</td>
+        <td colspan="2">Vitaminas</td>
+      </tr>
+      <tr>
+        <td colspan="1">Dulces</td>
+        <td colspan="1">Carne</td>
+        <td colspan="1">Huevos</td>
+        <td colspan="1">Legumbres</td>
+        <td colspan="1">Frutas</td>
+        <td colspan="1">Verduras</td>
+      </tr>
+      <tr>
+        <td colspan="1">Dulces</td>
+        <td colspan="1">Carne</td>
+        <td colspan="1">Huevos</td>
+        <td colspan="1">Legumbres</td>
+        <td colspan="1">Frutas</td>
+        <td colspan="1">Verduras</td>
+      </tr>
+    </table>
+  </body>
+</html>
+--->
