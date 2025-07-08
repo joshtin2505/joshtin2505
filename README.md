@@ -1,4 +1,5 @@
-# 👋 Hi, I’m Justin Castro Perez
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2996&pause=1000&color=0CFFEE&background=FF030300&center=true&vCenter=true&random=true&width=435&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Justin+Castro+Perez;Software+developer+Full+Stack)](https://git.io/typing-svg)
+
 - 👀 I’m interested in music, AI & Web Development.
 - 💞️ I’m looking to collaborate in web app development or web sites on React, Next, etc :)
 - 📫 How to reach me to my email justincastro2505@gmail.com or my IG justincastro2505
